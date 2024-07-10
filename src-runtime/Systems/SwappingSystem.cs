@@ -1,0 +1,1 @@
+#define LEOECSLITE_DI
